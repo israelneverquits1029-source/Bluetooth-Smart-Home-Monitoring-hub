@@ -4,9 +4,21 @@ I made this project because, well, I wanted to make a useful system that is able
 
 # Images
 
+<img width="538" height="507" alt="Screenshot 2026-05-04 215352" src="https://github.com/user-attachments/assets/e62dc275-fd8f-49ab-8296-e0e2daa83464" />
+
+<img width="623" height="408" alt="Screenshot 2026-05-04 215429" src="https://github.com/user-attachments/assets/566cd61b-ebd2-47e9-9016-1f62feacc345" />
+
+<img width="570" height="533" alt="Screenshot 2026-05-04 215633" src="https://github.com/user-attachments/assets/88849d62-7a5d-4981-98d8-40ef558dc8d7" />
+
+<img width="522" height="467" alt="Screenshot 2026-05-04 215722" src="https://github.com/user-attachments/assets/036edec2-65ab-425f-a202-cffd2571e6bf" />
+
 # Full CAD Model
 
+<img width="632" height="549" alt="Screenshot 2026-05-04 215324" src="https://github.com/user-attachments/assets/8d3198d1-55d2-4c2f-bdb5-cccd614e4c78" />
+
 # Wiring Diagram
+
+<img width="596" height="398" alt="wiring diagram BLE" src="https://github.com/user-attachments/assets/e44ada67-586f-4d53-a1fe-0a4cf61db110" />
 
 # Bill of Materials
 [MINI Bluetooth Smart Home Monitoring hub-bom.csv](https://github.com/user-attachments/files/27299360/MINI.Bluetooth.Smart.Home.Monitoring.hub-bom.csv)
