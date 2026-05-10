@@ -21,9 +21,11 @@ I made this project because, well, I wanted to make a useful system that is able
 <img width="596" height="398" alt="wiring diagram BLE" src="https://github.com/user-attachments/assets/e44ada67-586f-4d53-a1fe-0a4cf61db110" />
 
 # Bill of Materials
-[MINI Bluetooth Smart Home Monitoring hub-bom.csv](https://github.com/user-attachments/files/27299360/MINI.Bluetooth.Smart.Home.Monitoring.hub-bom.csv)
+[MINI Bluetooth Smart Home Monitoring hub-bom (1).csv](https://github.com/user-attachments/files/27568700/MINI.Bluetooth.Smart.Home.Monitoring.hub-bom.1.csv)
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |---:|---|---|---|---|---:|
-| LDR analog sensor | Light intensity sensing | 1 | 0.90 | https://www.aliexpress.com/item/1005005935527338.html | Aliexpress |
+| 3D printed case | Enclosure for the system | 1 | 12.00 | https://stasis.hackclub.com/dashboard/projects/cmo5uwjkl00qx01s45pyqwf9v | printing legion |
+| ESP32 DEV BOARD | Main microcontroller for this project | 1 | 4.50 | https://www.aliexpress.com/item/1005005655238798.html | Aliexpress |
+| LDR analog sensor | Light intensity sensing | 1 | 2.00 | https://www.aliexpress.com/item/1005005935527338.html | Aliexpress |
 | DHT22 Digital sensor | Temperature and Humidity sensing and monitoring | 1 | 2.00 | https://www.aliexpress.com/item/32759901711.html | Aliexpress |
