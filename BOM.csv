@@ -1,3 +1,5 @@
 Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"LDR analog sensor","Light intensity sensing",1,0.90,"https://www.aliexpress.com/item/1005005935527338.html","Aliexpress"
+"3D printed case","Enclosure for the system",1,12.00,"https://stasis.hackclub.com/dashboard/projects/cmo5uwjkl00qx01s45pyqwf9v","printing legion"
+"ESP32 DEV BOARD","Main microcontroller for this project",1,4.50,"https://www.aliexpress.com/item/1005005655238798.html","Aliexpress"
+"LDR analog sensor","Light intensity sensing",1,2.00,"https://www.aliexpress.com/item/1005005935527338.html","Aliexpress"
 "DHT22 Digital sensor","Temperature and Humidity sensing and monitoring",1,2.00,"https://www.aliexpress.com/item/32759901711.html","Aliexpress"
